@@ -13,12 +13,13 @@ class UserController extends Controller
     public function index()
     {
         $users = User::all();
-        foreach($users as $user){
-            echo $user->name ."<br>";
-        }
+        // foreach($users as $user){
+        //     echo $user->name ."<br>";
+        // }
 
 
         // return $users;
+        return view('alluser', compact('users'));
     }
 
     /**
