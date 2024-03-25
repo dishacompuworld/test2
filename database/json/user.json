@@ -1,0 +1,44 @@
+[
+    {
+        "name" : "Sachin Tendulkar",
+        "email" : "sachin@gmail.com",
+        "password" : "new pass",
+        "city" : "Ailbag",
+        "age" : "23"
+    },
+    {
+        "name" : "Vijay Chavan",
+        "email" : "vijay@gmail.com",
+        "password" : "new pass",
+        "city" : "Pen",
+        "age" : "23"
+    },
+    {
+        "name" : "Sagar Patil",
+        "email" : "sagar@gmail.com",
+        "password" : "new pass",
+        "city" : "Nagpur",
+        "age" : "23"
+    },
+    {
+        "name" : "Virat Kohali",
+        "email" : "virat@gmail.com",
+        "password" : "new pass",
+        "city" : "Poinad",
+        "age" : "23"
+    },
+    {
+        "name" : "Laabh Kothekar",
+        "email" : "labh@gmail.com",
+        "password" : "new pass",
+        "city" : "Pune",
+        "age" : "23"
+    },
+    {
+        "name" : "Mrunmai Kothekar",
+        "email" : "didi@gmail.com",
+        "password" : "new pass",
+        "city" : "Ailbag",
+        "age" : "23"
+    }
+]
