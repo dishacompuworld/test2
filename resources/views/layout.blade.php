@@ -17,13 +17,22 @@
     
     <div class="container">
         <div class="row">
-            <div class="col-8 bg-success-subtle text-center py-2"><h2>Eloquent CRUD</h2></div>
+            <div class="col-7 bg-success-subtle text-center py-1"><h2>Eloquent CRUD</h2></div>
         </div>
-        <h1>>@yield('title')</h1>
-        <a href="newuser" class="btn btn-success btn-sm mb-3" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">Add New User</a>
-        <a href="showcity" class="btn btn-success btn-sm mb-3" style="--bs-btn-padding-y: .25rem; --bs-btn-padding-x: .5rem; --bs-btn-font-size: .75rem;">Show Cities</a>
+        <h1>@yield('title')</h1>
+<div class="row">
+    <div class="col-7">
+        @if(session('status'))
+            <div class="alert alert-success">
+                {{ session('status')}}
+            </div>
+        @endif
+    </div>
+</div>
+
+        
         <div class="row">
-            <div class="col-6">
+            <div class="col-7">
                 @yield('content')
             </div>
         </div>

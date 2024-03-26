@@ -40,5 +40,62 @@
         "password" : "new pass",
         "city" : "Ailbag",
         "age" : "23"
+    },
+    {
+        "name" : "Sachin Kothekar",
+        "email" : "sachinkothekar@gmail.com",
+        "password" : "new pass",
+        "city" : "Kolhapur",
+        "age" : "23"
+    },
+    {
+        "name" : "Arnesh Kothekar",
+        "email" : "arnesh@gmail.com",
+        "password" : "new pass",
+        "city" : "Pen",
+        "age" : "3"
+    },
+    {
+        "name" : "Geeta Pawar",
+        "email" : "geeta@gmail.com",
+        "password" : "new pass",
+        "city" : "Pen",
+        "age" : "23"
+    },
+    {
+        "name" : "Mahesh Bhoir",
+        "email" : "Mahesh@gmail.com",
+        "password" : "new pass",
+        "city" : "Kolad",
+        "age" : "23"
+    },
+    {
+        "name" : "Vilas Mhatre",
+        "email" : "vilas@gmail.com",
+        "password" : "New Password",
+        "city" : "Khopoli",
+        "age" : "23"
+    },
+    {
+        "name" : "Vikay Chavan",
+        "email" : "shidi@gmail.com",
+        "password" : "new pass",
+        "city" : "Panvel",
+        "age" : "33"
+    },
+    {
+        "name" : "Gopal Patil",
+        "email" : "Gopal@gmail.com",
+        "password" : "Pdd fafsafa",
+        "city" : "Ailbag",
+        "age" : "22"
+    },
+    {
+        "name" : "Manish Vange",
+        "email" : "manish@gmail.com",
+        "password" : "Pdd fafsafa",
+        "city" : "Ailbag",
+        "age" : "22"
     }
+    
 ]
